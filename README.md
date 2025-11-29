@@ -32,7 +32,10 @@ The vision of **Dispute-Free Micro-Gig Payments** is to offer a decentralized an
    git clone https://github.com/yourusername/Dispute-Free-Micro-Gig-Payments.git
    cd Dispute-Free-Micro-Gig-Payments
    Contract Address: 0xE62fB1210B82bD79c857F344E637f0CD6a9c9530
-   <img width="928" height="182" alt="image" src="https://github.com/user-attachments/assets/848f971d-2b22-4334-81d5-3756a81c06a3" />
-
 
    
+  
+
+
+   ![Image](https://github.com/user-attachments/assets/83141efc-bba8-445a-ac3f-aba0056bb8ed)
+
